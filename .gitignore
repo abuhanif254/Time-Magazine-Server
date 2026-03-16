@@ -1,0 +1,12 @@
+ 
+ package.json
+    tsconfig.json
+    tsconfig.server.json
+    tsconfig.client.json
+    tsconfig.node.json
+    tsconfig.e2e.json
+    .env
+    .env.development
+    .env.production
+    .env.test
+    .env.local
